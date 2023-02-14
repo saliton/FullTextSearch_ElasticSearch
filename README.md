@@ -1,5 +1,5 @@
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soliton-Analytics-Team/FullTextSearch_ElasticSearch/blob/main/FullTextSearch_ElasticSearch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saliton/FullTextSearch_ElasticSearch/blob/main/FullTextSearch_ElasticSearch.ipynb)
 
 # Colabで全文検索（その６：ElasticSearch編）
 
